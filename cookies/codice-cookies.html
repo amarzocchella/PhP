@@ -1,0 +1,35 @@
+<!-- Add the code in the header of your website, just before the </head> tag. For help and additional 
+options see our documentation. 
+font-size: 14px
+    "href": "www.marbla.it/ CookiePolicy"
+    
+ Funziona!!
+ <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+
+-->
+
+<link rel="stylesheet" type="text/css" href="cookieconsent.min.css" />
+<script src="cookieconsent.min.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#eaf7f7",
+      "text": "#5c7291"
+    },
+    "button": {
+      "background": "#56cbdb",
+      "text": "#ffffff"
+    }
+  },
+  "content": {
+    "message": "Questo sito utilizza i cookie per migliorare la tua esperienza sul nostro sito web.",
+    "dismiss": "Capito!",
+    "link": "Per saperne di pi&ugrave;",
+    "href": "www.joomla.it/cookie-policy.html"
+  }
+})});
+</script>
+
