@@ -18,6 +18,7 @@ if (!$username || !$password) {
         <p style="color: red"><?php echo $error ?></p>
     <?php else: ?>
         <p>Benvenuto <?php echo $username ?></p>
+         <p>Ecco la password ricevuta dal servere e da te immessa:  <?php echo $password ?></p>
     <?php endif ?>
 </body>
 </html>
