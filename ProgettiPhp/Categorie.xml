@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" ?>
+<Magazzino>
+<Categoria>
+<IDCategoria>1</IDCategoria>
+<NomeCategoria>Bevande</NomeCategoria>
+<Descrizione>Bibite e caffe'</Descrizione>
+</Categoria>
+<Categoria>
+<IDCategoria>2</IDCategoria>
+<NomeCategoria>Condimenti</NomeCategoria>
+<Descrizione>Salse e condimenti</Descrizione>
+</Categoria>
+<Categoria>
+<IDCategoria>3</IDCategoria>
+<NomeCategoria>Dolciumi</NomeCategoria>
+<Descrizione>Dessert, caramelle e dolci</Descrizione>
+</Categoria>
+<Categoria>
+<IDCategoria>4</IDCategoria>
+<NomeCategoria>Latticini</NomeCategoria>
+<Descrizione>Formaggi</Descrizione>
+</Categoria>
+<Categoria>
+<IDCategoria>5</IDCategoria>
+<NomeCategoria>Cereali</NomeCategoria>
+<Descrizione>Pane, cracker, pasta e cereali</Descrizione>
+</Categoria>
+<Categoria>
+<IDCategoria>6</IDCategoria>
+<NomeCategoria>Carne e pollame</NomeCategoria>
+<Descrizione>Carni conservate</Descrizione>
+</Categoria>
+<Categoria>
+<IDCategoria>7</IDCategoria>
+<NomeCategoria>Prodotti agricoli</NomeCategoria>
+<Descrizione>Frutta secca e formaggio di soia</Descrizione>
+</Categoria>
+<Categoria>
+<IDCategoria>8</IDCategoria>
+<NomeCategoria>Prodotti ittici</NomeCategoria>
+<Descrizione>Alghe e pesce</Descrizione>
+</Categoria>
+</Magazzino>

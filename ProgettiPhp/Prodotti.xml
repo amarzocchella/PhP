@@ -1,0 +1,927 @@
+<?xml version="1.0" ?>
+<Inventario>
+<Prodotto>
+<IDProdotto>1</IDProdotto>
+<NomeProdotto>English Tea Blended</NomeProdotto>
+<IDFornitore>1</IDFornitore>
+<IDCategoria>1</IDCategoria>
+<QuantitaPerUnita>10 scatole da 20 filtri</QuantitaPerUnita>
+<PrezzoUnitario>18</PrezzoUnitario>
+<Scorte>39</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>10</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>2</IDProdotto>
+<NomeProdotto>Chang</NomeProdotto>
+<IDFornitore>1</IDFornitore>
+<IDCategoria>1</IDCategoria>
+<QuantitaPerUnita>24 bottiglie da 360 ml</QuantitaPerUnita>
+<PrezzoUnitario>19</PrezzoUnitario>
+<Scorte>17</Scorte>
+<QuantitaOrdinata>40</QuantitaOrdinata>
+<LivelloDiRiordino>25</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>3</IDProdotto>
+<NomeProdotto>Aniseed Syrup</NomeProdotto>
+<IDFornitore>1</IDFornitore>
+<IDCategoria>2</IDCategoria>
+<QuantitaPerUnita>12 bottiglie da 550 ml</QuantitaPerUnita>
+<PrezzoUnitario>10</PrezzoUnitario>
+<Scorte>13</Scorte>
+<QuantitaOrdinata>70</QuantitaOrdinata>
+<LivelloDiRiordino>25</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>4</IDProdotto>
+<NomeProdotto>Chef Anton&apos;s Cajun Seasoning</NomeProdotto>
+<IDFornitore>2</IDFornitore>
+<IDCategoria>2</IDCategoria>
+<QuantitaPerUnita>48 vasetti da 180 g</QuantitaPerUnita>
+<PrezzoUnitario>22</PrezzoUnitario>
+<Scorte>53</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>5</IDProdotto>
+<NomeProdotto>Chef Anton&apos;s Gumbo Mix</NomeProdotto>
+<IDFornitore>2</IDFornitore>
+<IDCategoria>2</IDCategoria>
+<QuantitaPerUnita>36 scatole</QuantitaPerUnita>
+<PrezzoUnitario>21.35</PrezzoUnitario>
+<Scorte>0</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>1</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>6</IDProdotto>
+<NomeProdotto>Grandma&apos;s Boysenberry Spread</NomeProdotto>
+<IDFornitore>3</IDFornitore>
+<IDCategoria>2</IDCategoria>
+<QuantitaPerUnita>12 vasetti da 250 g</QuantitaPerUnita>
+<PrezzoUnitario>25</PrezzoUnitario>
+<Scorte>120</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>25</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>7</IDProdotto>
+<NomeProdotto>Uncle Bob&apos;s Organic Dried Pears</NomeProdotto>
+<IDFornitore>3</IDFornitore>
+<IDCategoria>7</IDCategoria>
+<QuantitaPerUnita>12 confezioni da 500 g</QuantitaPerUnita>
+<PrezzoUnitario>30</PrezzoUnitario>
+<Scorte>15</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>10</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>8</IDProdotto>
+<NomeProdotto>Northwoods Cranberry Sauce</NomeProdotto>
+<IDFornitore>3</IDFornitore>
+<IDCategoria>2</IDCategoria>
+<QuantitaPerUnita>12 vasetti 360 g</QuantitaPerUnita>
+<PrezzoUnitario>40</PrezzoUnitario>
+<Scorte>6</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>9</IDProdotto>
+<NomeProdotto>Mishi Kobe Niku</NomeProdotto>
+<IDFornitore>9</IDFornitore>
+<IDCategoria>6</IDCategoria>
+<QuantitaPerUnita>18 confezioni da 500 g</QuantitaPerUnita>
+<PrezzoUnitario>97</PrezzoUnitario>
+<Scorte>29</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>1</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>10</IDProdotto>
+<NomeProdotto>Ikura</NomeProdotto>
+<IDFornitore>4</IDFornitore>
+<IDCategoria>8</IDCategoria>
+<QuantitaPerUnita>12 vasetti da 200 ml</QuantitaPerUnita>
+<PrezzoUnitario>31</PrezzoUnitario>
+<Scorte>31</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>11</IDProdotto>
+<NomeProdotto>Queso Cabrales</NomeProdotto>
+<IDFornitore>5</IDFornitore>
+<IDCategoria>4</IDCategoria>
+<QuantitaPerUnita>1 confezione da 1 kg</QuantitaPerUnita>
+<PrezzoUnitario>21</PrezzoUnitario>
+<Scorte>22</Scorte>
+<QuantitaOrdinata>30</QuantitaOrdinata>
+<LivelloDiRiordino>30</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>12</IDProdotto>
+<NomeProdotto>Queso Manchego La Pastora</NomeProdotto>
+<IDFornitore>5</IDFornitore>
+<IDCategoria>4</IDCategoria>
+<QuantitaPerUnita>10 confezioni da 500 gr</QuantitaPerUnita>
+<PrezzoUnitario>38</PrezzoUnitario>
+<Scorte>86</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>13</IDProdotto>
+<NomeProdotto>Konbu</NomeProdotto>
+<IDFornitore>6</IDFornitore>
+<IDCategoria>8</IDCategoria>
+<QuantitaPerUnita>1 scatola da 2 kg</QuantitaPerUnita>
+<PrezzoUnitario>6</PrezzoUnitario>
+<Scorte>24</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>5</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>14</IDProdotto>
+<NomeProdotto>Tofu</NomeProdotto>
+<IDFornitore>6</IDFornitore>
+<IDCategoria>7</IDCategoria>
+<QuantitaPerUnita>40 confezioni da 100 g</QuantitaPerUnita>
+<PrezzoUnitario>23.25</PrezzoUnitario>
+<Scorte>35</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>15</IDProdotto>
+<NomeProdotto>Genen Shouyu</NomeProdotto>
+<IDFornitore>6</IDFornitore>
+<IDCategoria>2</IDCategoria>
+<QuantitaPerUnita>24 bottiglie da 250 ml</QuantitaPerUnita>
+<PrezzoUnitario>15.5</PrezzoUnitario>
+<Scorte>39</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>5</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>16</IDProdotto>
+<NomeProdotto>Pavlova</NomeProdotto>
+<IDFornitore>7</IDFornitore>
+<IDCategoria>3</IDCategoria>
+<QuantitaPerUnita>32 scatole da 500 g</QuantitaPerUnita>
+<PrezzoUnitario>17.45</PrezzoUnitario>
+<Scorte>29</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>10</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>17</IDProdotto>
+<NomeProdotto>Alice Mutton</NomeProdotto>
+<IDFornitore>7</IDFornitore>
+<IDCategoria>6</IDCategoria>
+<QuantitaPerUnita>20 latte da 1 kg</QuantitaPerUnita>
+<PrezzoUnitario>39</PrezzoUnitario>
+<Scorte>0</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>1</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>18</IDProdotto>
+<NomeProdotto>Carnarvon Tigers</NomeProdotto>
+<IDFornitore>7</IDFornitore>
+<IDCategoria>8</IDCategoria>
+<QuantitaPerUnita>1 confezione da 16 kg</QuantitaPerUnita>
+<PrezzoUnitario>62.5</PrezzoUnitario>
+<Scorte>42</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>19</IDProdotto>
+<NomeProdotto>Teatime Chocolate Biscuits</NomeProdotto>
+<IDFornitore>8</IDFornitore>
+<IDCategoria>3</IDCategoria>
+<QuantitaPerUnita>12 scatole da 12 pezzi</QuantitaPerUnita>
+<PrezzoUnitario>9.2</PrezzoUnitario>
+<Scorte>25</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>5</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>20</IDProdotto>
+<NomeProdotto>Marmellata del contadino</NomeProdotto>
+<IDFornitore>8</IDFornitore>
+<IDCategoria>3</IDCategoria>
+<QuantitaPerUnita>30 confezioni regalo</QuantitaPerUnita>
+<PrezzoUnitario>81</PrezzoUnitario>
+<Scorte>40</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>21</IDProdotto>
+<NomeProdotto>Sir Rodney&apos;s Scones</NomeProdotto>
+<IDFornitore>8</IDFornitore>
+<IDCategoria>3</IDCategoria>
+<QuantitaPerUnita>24 confezioni da 4 pezzi</QuantitaPerUnita>
+<PrezzoUnitario>10</PrezzoUnitario>
+<Scorte>3</Scorte>
+<QuantitaOrdinata>40</QuantitaOrdinata>
+<LivelloDiRiordino>5</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>22</IDProdotto>
+<NomeProdotto>Gustaf&apos;s Knäckebröd</NomeProdotto>
+<IDFornitore>9</IDFornitore>
+<IDCategoria>5</IDCategoria>
+<QuantitaPerUnita>24 confezioni da 500 g</QuantitaPerUnita>
+<PrezzoUnitario>21</PrezzoUnitario>
+<Scorte>104</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>25</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>23</IDProdotto>
+<NomeProdotto>Tunnbröd</NomeProdotto>
+<IDFornitore>9</IDFornitore>
+<IDCategoria>5</IDCategoria>
+<QuantitaPerUnita>12 confezioni da 250 g</QuantitaPerUnita>
+<PrezzoUnitario>9</PrezzoUnitario>
+<Scorte>61</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>25</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>24</IDProdotto>
+<NomeProdotto>Guaraná Fantástica</NomeProdotto>
+<IDFornitore>10</IDFornitore>
+<IDCategoria>1</IDCategoria>
+<QuantitaPerUnita>12 lattine da 355 ml</QuantitaPerUnita>
+<PrezzoUnitario>4.5</PrezzoUnitario>
+<Scorte>20</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>1</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>25</IDProdotto>
+<NomeProdotto>NuNuCa Nuß-Nougat-Creme</NomeProdotto>
+<IDFornitore>11</IDFornitore>
+<IDCategoria>3</IDCategoria>
+<QuantitaPerUnita>20 vasi da 450 g</QuantitaPerUnita>
+<PrezzoUnitario>14</PrezzoUnitario>
+<Scorte>76</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>30</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>26</IDProdotto>
+<NomeProdotto>Gumbär Gummibärchen</NomeProdotto>
+<IDFornitore>11</IDFornitore>
+<IDCategoria>3</IDCategoria>
+<QuantitaPerUnita>100 sacchetti da 250 g</QuantitaPerUnita>
+<PrezzoUnitario>31.23</PrezzoUnitario>
+<Scorte>15</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>27</IDProdotto>
+<NomeProdotto>Schoggi Schokolade</NomeProdotto>
+<IDFornitore>11</IDFornitore>
+<IDCategoria>3</IDCategoria>
+<QuantitaPerUnita>100 pezzi da 100 g</QuantitaPerUnita>
+<PrezzoUnitario>43.9</PrezzoUnitario>
+<Scorte>49</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>30</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>28</IDProdotto>
+<NomeProdotto>Rössle Sauerkraut</NomeProdotto>
+<IDFornitore>12</IDFornitore>
+<IDCategoria>7</IDCategoria>
+<QuantitaPerUnita>25 latte da 825 g</QuantitaPerUnita>
+<PrezzoUnitario>45.6</PrezzoUnitario>
+<Scorte>26</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>1</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>29</IDProdotto>
+<NomeProdotto>Thüringer Rostbratwurst</NomeProdotto>
+<IDFornitore>12</IDFornitore>
+<IDCategoria>6</IDCategoria>
+<QuantitaPerUnita>50 confezioni da 30 pezzi</QuantitaPerUnita>
+<PrezzoUnitario>123.79</PrezzoUnitario>
+<Scorte>0</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>1</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>30</IDProdotto>
+<NomeProdotto>Nord-Ost Matjeshering</NomeProdotto>
+<IDFornitore>13</IDFornitore>
+<IDCategoria>8</IDCategoria>
+<QuantitaPerUnita>10 vasi da 20 g</QuantitaPerUnita>
+<PrezzoUnitario>25.89</PrezzoUnitario>
+<Scorte>10</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>15</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>31</IDProdotto>
+<NomeProdotto>Gorgonzola Telino</NomeProdotto>
+<IDFornitore>14</IDFornitore>
+<IDCategoria>4</IDCategoria>
+<QuantitaPerUnita>12 confezioni da 100 g</QuantitaPerUnita>
+<PrezzoUnitario>12.5</PrezzoUnitario>
+<Scorte>0</Scorte>
+<QuantitaOrdinata>70</QuantitaOrdinata>
+<LivelloDiRiordino>20</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>32</IDProdotto>
+<NomeProdotto>Mascarpone Fabioli</NomeProdotto>
+<IDFornitore>14</IDFornitore>
+<IDCategoria>4</IDCategoria>
+<QuantitaPerUnita>24 confezioni da 200 g</QuantitaPerUnita>
+<PrezzoUnitario>32</PrezzoUnitario>
+<Scorte>9</Scorte>
+<QuantitaOrdinata>40</QuantitaOrdinata>
+<LivelloDiRiordino>25</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>33</IDProdotto>
+<NomeProdotto>Geitost</NomeProdotto>
+<IDFornitore>15</IDFornitore>
+<IDCategoria>4</IDCategoria>
+<QuantitaPerUnita>1 confezione da 500 g</QuantitaPerUnita>
+<PrezzoUnitario>2.5</PrezzoUnitario>
+<Scorte>112</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>20</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>34</IDProdotto>
+<NomeProdotto>Sasquatch Ale</NomeProdotto>
+<IDFornitore>16</IDFornitore>
+<IDCategoria>1</IDCategoria>
+<QuantitaPerUnita>24 bottiglie da 360 ml</QuantitaPerUnita>
+<PrezzoUnitario>14</PrezzoUnitario>
+<Scorte>111</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>15</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>35</IDProdotto>
+<NomeProdotto>Steeleye Stout</NomeProdotto>
+<IDFornitore>16</IDFornitore>
+<IDCategoria>1</IDCategoria>
+<QuantitaPerUnita>24 bottiglie da 360 ml</QuantitaPerUnita>
+<PrezzoUnitario>18</PrezzoUnitario>
+<Scorte>20</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>15</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>36</IDProdotto>
+<NomeProdotto>Inlagd Sill</NomeProdotto>
+<IDFornitore>17</IDFornitore>
+<IDCategoria>8</IDCategoria>
+<QuantitaPerUnita>24 vasetti da 180 g</QuantitaPerUnita>
+<PrezzoUnitario>19</PrezzoUnitario>
+<Scorte>112</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>20</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>37</IDProdotto>
+<NomeProdotto>Gravad lax</NomeProdotto>
+<IDFornitore>17</IDFornitore>
+<IDCategoria>8</IDCategoria>
+<QuantitaPerUnita>12 confezioni da 500 g</QuantitaPerUnita>
+<PrezzoUnitario>26</PrezzoUnitario>
+<Scorte>11</Scorte>
+<QuantitaOrdinata>50</QuantitaOrdinata>
+<LivelloDiRiordino>25</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>38</IDProdotto>
+<NomeProdotto>Côte de Blaye</NomeProdotto>
+<IDFornitore>18</IDFornitore>
+<IDCategoria>1</IDCategoria>
+<QuantitaPerUnita>12 bottiglie da 75 cl</QuantitaPerUnita>
+<PrezzoUnitario>263.5</PrezzoUnitario>
+<Scorte>17</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>15</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>39</IDProdotto>
+<NomeProdotto>Chartreuse verte</NomeProdotto>
+<IDFornitore>18</IDFornitore>
+<IDCategoria>1</IDCategoria>
+<QuantitaPerUnita>bottiglie da 750 cc</QuantitaPerUnita>
+<PrezzoUnitario>18</PrezzoUnitario>
+<Scorte>69</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>5</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>40</IDProdotto>
+<NomeProdotto>Boston Crab Meat</NomeProdotto>
+<IDFornitore>19</IDFornitore>
+<IDCategoria>8</IDCategoria>
+<QuantitaPerUnita>24 lattine da 120 g</QuantitaPerUnita>
+<PrezzoUnitario>18.4</PrezzoUnitario>
+<Scorte>123</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>30</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>41</IDProdotto>
+<NomeProdotto>Jack&apos;s New England Clam Chowder</NomeProdotto>
+<IDFornitore>19</IDFornitore>
+<IDCategoria>8</IDCategoria>
+<QuantitaPerUnita>12 lattine da 360 ml</QuantitaPerUnita>
+<PrezzoUnitario>9.65</PrezzoUnitario>
+<Scorte>85</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>10</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>42</IDProdotto>
+<NomeProdotto>Singaporean Hokkien Fried Mee</NomeProdotto>
+<IDFornitore>20</IDFornitore>
+<IDCategoria>5</IDCategoria>
+<QuantitaPerUnita>32 confezioni da 1 kg</QuantitaPerUnita>
+<PrezzoUnitario>14</PrezzoUnitario>
+<Scorte>26</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>1</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>43</IDProdotto>
+<NomeProdotto>Ipoh Coffee</NomeProdotto>
+<IDFornitore>20</IDFornitore>
+<IDCategoria>1</IDCategoria>
+<QuantitaPerUnita>16 lattine da 500 g</QuantitaPerUnita>
+<PrezzoUnitario>46</PrezzoUnitario>
+<Scorte>17</Scorte>
+<QuantitaOrdinata>10</QuantitaOrdinata>
+<LivelloDiRiordino>25</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>44</IDProdotto>
+<NomeProdotto>Gula Malacca</NomeProdotto>
+<IDFornitore>20</IDFornitore>
+<IDCategoria>2</IDCategoria>
+<QuantitaPerUnita>20 confezioni da 2 kg</QuantitaPerUnita>
+<PrezzoUnitario>19.45</PrezzoUnitario>
+<Scorte>27</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>15</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>45</IDProdotto>
+<NomeProdotto>Røgede sild</NomeProdotto>
+<IDFornitore>21</IDFornitore>
+<IDCategoria>8</IDCategoria>
+<QuantitaPerUnita>confezione da 1 kg</QuantitaPerUnita>
+<PrezzoUnitario>9.5</PrezzoUnitario>
+<Scorte>5</Scorte>
+<QuantitaOrdinata>70</QuantitaOrdinata>
+<LivelloDiRiordino>15</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>46</IDProdotto>
+<NomeProdotto>Spegesild</NomeProdotto>
+<IDFornitore>21</IDFornitore>
+<IDCategoria>8</IDCategoria>
+<QuantitaPerUnita>4 vasetti da 450 g</QuantitaPerUnita>
+<PrezzoUnitario>12</PrezzoUnitario>
+<Scorte>95</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>47</IDProdotto>
+<NomeProdotto>Zaanse koeken</NomeProdotto>
+<IDFornitore>22</IDFornitore>
+<IDCategoria>3</IDCategoria>
+<QuantitaPerUnita>10 scatole da 125 g</QuantitaPerUnita>
+<PrezzoUnitario>9.5</PrezzoUnitario>
+<Scorte>36</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>48</IDProdotto>
+<NomeProdotto>Chocolade</NomeProdotto>
+<IDFornitore>22</IDFornitore>
+<IDCategoria>3</IDCategoria>
+<QuantitaPerUnita>10 confezioni</QuantitaPerUnita>
+<PrezzoUnitario>12.75</PrezzoUnitario>
+<Scorte>15</Scorte>
+<QuantitaOrdinata>70</QuantitaOrdinata>
+<LivelloDiRiordino>25</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>49</IDProdotto>
+<NomeProdotto>Maxilaku</NomeProdotto>
+<IDFornitore>23</IDFornitore>
+<IDCategoria>3</IDCategoria>
+<QuantitaPerUnita>24 confezioni da 50 g</QuantitaPerUnita>
+<PrezzoUnitario>20</PrezzoUnitario>
+<Scorte>10</Scorte>
+<QuantitaOrdinata>60</QuantitaOrdinata>
+<LivelloDiRiordino>15</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>50</IDProdotto>
+<NomeProdotto>Valkoinen suklaa</NomeProdotto>
+<IDFornitore>23</IDFornitore>
+<IDCategoria>3</IDCategoria>
+<QuantitaPerUnita>12 barre da 100 g</QuantitaPerUnita>
+<PrezzoUnitario>16.25</PrezzoUnitario>
+<Scorte>65</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>30</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>51</IDProdotto>
+<NomeProdotto>Manjimup Dried Apples</NomeProdotto>
+<IDFornitore>24</IDFornitore>
+<IDCategoria>7</IDCategoria>
+<QuantitaPerUnita>50 confezioni da 300 g</QuantitaPerUnita>
+<PrezzoUnitario>53</PrezzoUnitario>
+<Scorte>20</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>10</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>52</IDProdotto>
+<NomeProdotto>Filo Mix</NomeProdotto>
+<IDFornitore>24</IDFornitore>
+<IDCategoria>5</IDCategoria>
+<QuantitaPerUnita>16 scatole da 2 kg</QuantitaPerUnita>
+<PrezzoUnitario>7</PrezzoUnitario>
+<Scorte>38</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>25</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>53</IDProdotto>
+<NomeProdotto>Perth Pasties</NomeProdotto>
+<IDFornitore>24</IDFornitore>
+<IDCategoria>6</IDCategoria>
+<QuantitaPerUnita>48 pezzi</QuantitaPerUnita>
+<PrezzoUnitario>32.8</PrezzoUnitario>
+<Scorte>0</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>1</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>54</IDProdotto>
+<NomeProdotto>Tourtière</NomeProdotto>
+<IDFornitore>25</IDFornitore>
+<IDCategoria>6</IDCategoria>
+<QuantitaPerUnita>16 confezioni</QuantitaPerUnita>
+<PrezzoUnitario>7.45</PrezzoUnitario>
+<Scorte>21</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>10</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>55</IDProdotto>
+<NomeProdotto>Pâté chinois</NomeProdotto>
+<IDFornitore>25</IDFornitore>
+<IDCategoria>6</IDCategoria>
+<QuantitaPerUnita>24 scatole da 2 pezzi</QuantitaPerUnita>
+<PrezzoUnitario>24</PrezzoUnitario>
+<Scorte>115</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>20</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>56</IDProdotto>
+<NomeProdotto>Gnocchi di nonna Alice</NomeProdotto>
+<IDFornitore>26</IDFornitore>
+<IDCategoria>5</IDCategoria>
+<QuantitaPerUnita>24 confezioni da 250 g</QuantitaPerUnita>
+<PrezzoUnitario>38</PrezzoUnitario>
+<Scorte>21</Scorte>
+<QuantitaOrdinata>10</QuantitaOrdinata>
+<LivelloDiRiordino>30</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>57</IDProdotto>
+<NomeProdotto>Ravioli Angelo</NomeProdotto>
+<IDFornitore>26</IDFornitore>
+<IDCategoria>5</IDCategoria>
+<QuantitaPerUnita>24 confezioni da 250 g</QuantitaPerUnita>
+<PrezzoUnitario>19.5</PrezzoUnitario>
+<Scorte>36</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>20</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>58</IDProdotto>
+<NomeProdotto>Escargots de Bourgogne</NomeProdotto>
+<IDFornitore>27</IDFornitore>
+<IDCategoria>8</IDCategoria>
+<QuantitaPerUnita>24 pezzi</QuantitaPerUnita>
+<PrezzoUnitario>13.25</PrezzoUnitario>
+<Scorte>62</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>20</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>59</IDProdotto>
+<NomeProdotto>Raclette Courdavault</NomeProdotto>
+<IDFornitore>28</IDFornitore>
+<IDCategoria>4</IDCategoria>
+<QuantitaPerUnita>confezioni da 5 kg</QuantitaPerUnita>
+<PrezzoUnitario>55</PrezzoUnitario>
+<Scorte>79</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>60</IDProdotto>
+<NomeProdotto>Camembert Pierrot</NomeProdotto>
+<IDFornitore>28</IDFornitore>
+<IDCategoria>4</IDCategoria>
+<QuantitaPerUnita>15 formelle da 300 g</QuantitaPerUnita>
+<PrezzoUnitario>34</PrezzoUnitario>
+<Scorte>19</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>61</IDProdotto>
+<NomeProdotto>Sirop d&apos;érable</NomeProdotto>
+<IDFornitore>29</IDFornitore>
+<IDCategoria>2</IDCategoria>
+<QuantitaPerUnita>24 bottiglie da 500 ml</QuantitaPerUnita>
+<PrezzoUnitario>28.5</PrezzoUnitario>
+<Scorte>113</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>25</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>62</IDProdotto>
+<NomeProdotto>Tarte au sucre</NomeProdotto>
+<IDFornitore>29</IDFornitore>
+<IDCategoria>3</IDCategoria>
+<QuantitaPerUnita>48 torte</QuantitaPerUnita>
+<PrezzoUnitario>49.3</PrezzoUnitario>
+<Scorte>17</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>63</IDProdotto>
+<NomeProdotto>Vegie-spread</NomeProdotto>
+<IDFornitore>7</IDFornitore>
+<IDCategoria>2</IDCategoria>
+<QuantitaPerUnita>15 vasetti da 625 g</QuantitaPerUnita>
+<PrezzoUnitario>43.9</PrezzoUnitario>
+<Scorte>24</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>5</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>64</IDProdotto>
+<NomeProdotto>Wimmers gute Semmelknödel</NomeProdotto>
+<IDFornitore>12</IDFornitore>
+<IDCategoria>5</IDCategoria>
+<QuantitaPerUnita>20 sacchetti da 4 pezzi</QuantitaPerUnita>
+<PrezzoUnitario>33.25</PrezzoUnitario>
+<Scorte>22</Scorte>
+<QuantitaOrdinata>80</QuantitaOrdinata>
+<LivelloDiRiordino>30</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>65</IDProdotto>
+<NomeProdotto>Louisiana Fiery Hot Pepper Sauce</NomeProdotto>
+<IDFornitore>2</IDFornitore>
+<IDCategoria>2</IDCategoria>
+<QuantitaPerUnita>32 vasetti da 250 g</QuantitaPerUnita>
+<PrezzoUnitario>21.05</PrezzoUnitario>
+<Scorte>76</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>66</IDProdotto>
+<NomeProdotto>Louisiana Hot Spiced Okra</NomeProdotto>
+<IDFornitore>2</IDFornitore>
+<IDCategoria>2</IDCategoria>
+<QuantitaPerUnita>32 vasetti da 250 g</QuantitaPerUnita>
+<PrezzoUnitario>17</PrezzoUnitario>
+<Scorte>4</Scorte>
+<QuantitaOrdinata>100</QuantitaOrdinata>
+<LivelloDiRiordino>20</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>67</IDProdotto>
+<NomeProdotto>Laughing Lumberjack Lager</NomeProdotto>
+<IDFornitore>16</IDFornitore>
+<IDCategoria>1</IDCategoria>
+<QuantitaPerUnita>24 bottiglie da 360 ml</QuantitaPerUnita>
+<PrezzoUnitario>14</PrezzoUnitario>
+<Scorte>52</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>10</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>68</IDProdotto>
+<NomeProdotto>Scottish Longbreads</NomeProdotto>
+<IDFornitore>8</IDFornitore>
+<IDCategoria>3</IDCategoria>
+<QuantitaPerUnita>10 scatole da 8 pezzi</QuantitaPerUnita>
+<PrezzoUnitario>12.5</PrezzoUnitario>
+<Scorte>6</Scorte>
+<QuantitaOrdinata>10</QuantitaOrdinata>
+<LivelloDiRiordino>15</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>69</IDProdotto>
+<NomeProdotto>Gudbrandsdalsost</NomeProdotto>
+<IDFornitore>15</IDFornitore>
+<IDCategoria>4</IDCategoria>
+<QuantitaPerUnita>confezioni da 10 kg</QuantitaPerUnita>
+<PrezzoUnitario>36</PrezzoUnitario>
+<Scorte>26</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>15</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>70</IDProdotto>
+<NomeProdotto>Outback Lager</NomeProdotto>
+<IDFornitore>7</IDFornitore>
+<IDCategoria>1</IDCategoria>
+<QuantitaPerUnita>24 bottiglie da 355 ml</QuantitaPerUnita>
+<PrezzoUnitario>15</PrezzoUnitario>
+<Scorte>15</Scorte>
+<QuantitaOrdinata>10</QuantitaOrdinata>
+<LivelloDiRiordino>30</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>71</IDProdotto>
+<NomeProdotto>Fløtemysost</NomeProdotto>
+<IDFornitore>15</IDFornitore>
+<IDCategoria>4</IDCategoria>
+<QuantitaPerUnita>10 confezioni da 500 g</QuantitaPerUnita>
+<PrezzoUnitario>21.5</PrezzoUnitario>
+<Scorte>26</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>72</IDProdotto>
+<NomeProdotto>Mozzarella di Giovanni</NomeProdotto>
+<IDFornitore>14</IDFornitore>
+<IDCategoria>4</IDCategoria>
+<QuantitaPerUnita>24 confezioni da 200 g</QuantitaPerUnita>
+<PrezzoUnitario>34.8</PrezzoUnitario>
+<Scorte>14</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>0</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>73</IDProdotto>
+<NomeProdotto>Röd Kaviar</NomeProdotto>
+<IDFornitore>17</IDFornitore>
+<IDCategoria>8</IDCategoria>
+<QuantitaPerUnita>24 vasetti da 150 g</QuantitaPerUnita>
+<PrezzoUnitario>15</PrezzoUnitario>
+<Scorte>101</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>5</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>74</IDProdotto>
+<NomeProdotto>Longlife Tofu</NomeProdotto>
+<IDFornitore>4</IDFornitore>
+<IDCategoria>7</IDCategoria>
+<QuantitaPerUnita>confezione da 5 kg</QuantitaPerUnita>
+<PrezzoUnitario>10</PrezzoUnitario>
+<Scorte>4</Scorte>
+<QuantitaOrdinata>20</QuantitaOrdinata>
+<LivelloDiRiordino>5</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>75</IDProdotto>
+<NomeProdotto>Rhönbräu Klosterbier</NomeProdotto>
+<IDFornitore>12</IDFornitore>
+<IDCategoria>1</IDCategoria>
+<QuantitaPerUnita>24 bottiglie da 0,5 l</QuantitaPerUnita>
+<PrezzoUnitario>7.75</PrezzoUnitario>
+<Scorte>125</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>25</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>76</IDProdotto>
+<NomeProdotto>Lakkalikööri</NomeProdotto>
+<IDFornitore>23</IDFornitore>
+<IDCategoria>1</IDCategoria>
+<QuantitaPerUnita>500 ml</QuantitaPerUnita>
+<PrezzoUnitario>18</PrezzoUnitario>
+<Scorte>57</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>20</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+<Prodotto>
+<IDProdotto>77</IDProdotto>
+<NomeProdotto>Original Frankfurter grüne Soße</NomeProdotto>
+<IDFornitore>12</IDFornitore>
+<IDCategoria>2</IDCategoria>
+<QuantitaPerUnita>12 scatole</QuantitaPerUnita>
+<PrezzoUnitario>13</PrezzoUnitario>
+<Scorte>32</Scorte>
+<QuantitaOrdinata>0</QuantitaOrdinata>
+<LivelloDiRiordino>15</LivelloDiRiordino>
+<Sospeso>0</Sospeso>
+</Prodotto>
+</Inventario>

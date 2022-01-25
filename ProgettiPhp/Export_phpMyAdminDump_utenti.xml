@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+- phpMyAdmin XML Dump
+- version 4.0.5
+- http://www.phpmyadmin.net
+-
+- Host: 127.0.0.1:3306
+
+- Generation Time: Oct 13, 2013 at 09:23 AM
+- Server version: 5.5.33
+- PHP Version: 5.4.19
+-->
+
+<pma_xml_export version="1.0" xmlns:pma="http://www.phpmyadmin.net/some_doc_url/">
+    <!--
+    - Structure schemas
+    -->
+    <pma:structure_schemas>
+        <pma:database name="utenze" collation="utf8_general_ci" charset="utf8">
+            <pma:table name="utenti">
+                CREATE TABLE `utenti` (
+                  `Codice` int(11) NOT NULL,
+                  `Cognome` varchar(30) DEFAULT NULL,
+                  `Nome` varchar(30) DEFAULT NULL,
+                  `Indirizzo` varchar(40) DEFAULT NULL,
+                  `Citta` varchar(25) DEFAULT NULL,
+                  PRIMARY KEY (`Codice`)
+                ) ENGINE=MyISAM DEFAULT CHARSET=latin1;
+            </pma:table>
+        </pma:database>
+    </pma:structure_schemas>
+
+    <!--
+    - Database: 'utenze'
+    -->
+    <database name="utenze">
+        <!-- Table utenti -->
+        <table name="utenti">
+            <column name="Codice">1</column>
+            <column name="Cognome">Rossi</column>
+            <column name="Nome">Antonio</column>
+            <column name="Indirizzo">Via Roma 34</column>
+            <column name="Citta">Milano</column>
+        </table>
+        <table name="utenti">
+            <column name="Codice">2</column>
+            <column name="Cognome">Rossini</column>
+            <column name="Nome">Gabriele</column>
+            <column name="Indirizzo">Via Puglia 4</column>
+            <column name="Citta">Bari</column>
+        </table>
+        <table name="utenti">
+            <column name="Codice">3</column>
+            <column name="Cognome">Marossi</column>
+            <column name="Nome">Fernanda</column>
+            <column name="Indirizzo">Via Europa 213</column>
+            <column name="Citta">Torino</column>
+        </table>
+        <table name="utenti">
+            <column name="Codice">4</column>
+            <column name="Cognome">Bianchi</column>
+            <column name="Nome">Giuseppe</column>
+            <column name="Indirizzo">Via Mazzini 17</column>
+            <column name="Citta">Bologna</column>
+        </table>
+        <table name="utenti">
+            <column name="Codice">5</column>
+            <column name="Cognome">Rossi</column>
+            <column name="Nome">Mario</column>
+            <column name="Indirizzo">Viale Olimpico 22</column>
+            <column name="Citta">Trento</column>
+        </table>
+        <table name="utenti">
+            <column name="Codice">6</column>
+            <column name="Cognome">Bruni</column>
+            <column name="Nome">Giorgio</column>
+            <column name="Indirizzo">Via Promessi Sposi 34</column>
+            <column name="Citta">Milano</column>
+        </table>
+        <table name="utenti">
+            <column name="Codice">7</column>
+            <column name="Cognome">Rossini</column>
+            <column name="Nome">Aldo</column>
+            <column name="Indirizzo">Via Toti 78</column>
+            <column name="Citta">Roma</column>
+        </table>
+        <table name="utenti">
+            <column name="Codice">8</column>
+            <column name="Cognome">Verdi</column>
+            <column name="Nome">Giacomo</column>
+            <column name="Indirizzo">Via Montini 87</column>
+            <column name="Citta">Torino</column>
+        </table>
+        <table name="utenti">
+            <column name="Codice">9</column>
+            <column name="Cognome">Rossi</column>
+            <column name="Nome">Antonella</column>
+            <column name="Indirizzo">Piazza Grande 34</column>
+            <column name="Citta">Bologna</column>
+        </table>
+        <table name="utenti">
+            <column name="Codice">11</column>
+            <column name="Cognome">Lamelli</column>
+            <column name="Nome">Lucio</column>
+            <column name="Indirizzo">Via Roma 145</column>
+            <column name="Citta">Parma</column>
+        </table>
+        <table name="utenti">
+            <column name="Codice">12</column>
+            <column name="Cognome">Marchesi</column>
+            <column name="Nome">Ferdinando</column>
+            <column name="Indirizzo">Viale Cavour 23</column>
+            <column name="Citta">Ancona</column>
+        </table>
+    </database>
+</pma_xml_export>
