@@ -1,5 +1,5 @@
 <?php
-/* http://localhost/SitoTest/compito_php_feb/compito_php_feb.php
+/* Comandi da console in Replit cd Esercizi_in_vista_del_compito_php_feb ls php Esercizi_in_vista_del_compito_php_feb.php
   Dato il seguemte listato di codice in php, svolgere il seguente 
   compito: aggiungere un commento di fianco al codice in cui spieghi 
   cosa fa l'istruizione o   il segmento di codice.
