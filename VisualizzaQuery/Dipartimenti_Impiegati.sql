@@ -164,6 +164,13 @@ SELECT Cognome, Nome, Residenza, Stipendio
 	WHERE Stipendio >=(SELECT @minimo := MIN(Stipendio)
   FROM Dip_Impiegati) +10000;
 
+-- va bene anche se eliminiamo la variabile @minimo
+
+SELECT Cognome, Nome, Residenza, Stipendio
+	FROM Dip_Impiegati
+	WHERE Stipendio >=(SELECT MIN(Stipendio)
+  FROM Dip_Impiegati) +10000;
+
 -- senza parametri la query e' banale
 SELECT Cognome, Nome, Residenza, Stipendio
 	FROM Dip_Impiegati
