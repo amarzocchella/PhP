@@ -41,13 +41,20 @@ SELECT Cognome, Nome, Residenza, Stipendio
 	WHERE Stipendio >=@minimo +10000;";
  */  
 
-//-- Se vogliamo usarla in un applicativo web php va riscritta meglio
+/*//-- Se vogliamo usarla in un applicativo web php va riscritta meglio
 
 $query = "SELECT Cognome, Nome, Residenza, Stipendio
 	FROM Dip_Impiegati
 	WHERE Stipendio >=(SELECT @minimo := MIN(Stipendio)
   FROM Dip_Impiegati) +10000;";
-  
+*/
+//-- va bene anche se eliminiamo la variabile @minimo
+
+$query = "SELECT Cognome, Nome, Residenza, Stipendio
+	FROM Dip_Impiegati
+	WHERE Stipendio >=(SELECT MIN(Stipendio)
+  FROM Dip_Impiegati) +10000;";
+
 
 #printf("\$query: %s \n",$query);
 
