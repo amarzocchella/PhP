@@ -32,7 +32,22 @@ $mysqli = @new mysqli($dbhost, $dbuname, $dbpass,$dbname);
 $query = "SELECT  *
  FROM AC_History t ORDER BY id DESC LIMIT 20";
 */
-$query = "SELECT * FROM Giocatori";
+//$query = "SELECT * FROM Giocatori;";
+/*
+$query = "SELECT @minimo := MIN(Stipendio)
+  FROM Dip_Impiegati;
+SELECT Cognome, Nome, Residenza, Stipendio
+	FROM Dip_Impiegati
+	WHERE Stipendio >=@minimo +10000;";
+ */  
+
+//-- Se vogliamo usarla in un applicativo web php va riscritta meglio
+
+$query = "SELECT Cognome, Nome, Residenza, Stipendio
+	FROM Dip_Impiegati
+	WHERE Stipendio >=(SELECT @minimo := MIN(Stipendio)
+  FROM Dip_Impiegati) +10000;";
+  
 
 #printf("\$query: %s \n",$query);
 
