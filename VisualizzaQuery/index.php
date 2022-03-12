@@ -34,7 +34,7 @@ $query = "SELECT  *
 */
 $query = "SELECT * FROM Giocatori";
 
-#printf("\$query:%s \n",$query);
+#printf("\$query: %s \n",$query);
 
 if ($result=@mysqli_query($mysqli, $query))
   {
