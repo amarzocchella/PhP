@@ -156,7 +156,14 @@ SELECT @minimo := MIN(Stipendio)
 SELECT Cognome, Nome, Residenza, Stipendio
 	FROM Dip_Impiegati
 	WHERE Stipendio >=@minimo +10000;
-	
+
+-- Se vogliamo usarla in un applicativo web php va riscritta meglio
+
+SELECT Cognome, Nome, Residenza, Stipendio
+	FROM Dip_Impiegati
+	WHERE Stipendio >=(SELECT @minimo := MIN(Stipendio)
+  FROM Dip_Impiegati) +10000;
+
 -- senza parametri la query e' banale
 SELECT Cognome, Nome, Residenza, Stipendio
 	FROM Dip_Impiegati
