@@ -12,7 +12,7 @@ require_once("conf/conf_error.php");
 
 $dbhost = "localhost";
 $dbuname = "itebzinformatica";
-$dbpass = "o211256mitna";
+$dbpass = "cavoli miei";
 $dbname = "my_itebzinformatica";
 $prefix = "scrlu_";
 $user_prefix = "";
