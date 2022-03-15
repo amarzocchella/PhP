@@ -11,12 +11,13 @@ require_once("conf/conf_error.php");
 
 
 $dbhost = "localhost";
-$dbuname = "root";
-$dbpass = "";
-$dbname = "modello_sito";
+$dbuname = "itebzinformatica";
+$dbpass = "cavoli miei";
+$dbname = "my_itebzinformatica";
 $prefix = "scrlu_";
 $user_prefix = "";
 $dbtype = "MySQLI";
+
 
 # definiamo anche le variabili relative al cookie.
 
